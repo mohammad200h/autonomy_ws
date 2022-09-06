@@ -1,0 +1,8 @@
+prefix=/home/mamad/Hubby/autonomy_ws/devel
+
+Name: atonomous_tb
+Description: Description of atonomous_tb
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
